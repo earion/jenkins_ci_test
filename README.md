@@ -1,3 +1,4 @@
+Test auto pulling by Jenkins
 Continuous Integration with Jenkins on Amazon EC2
 =================================================
 
