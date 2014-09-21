@@ -13,7 +13,6 @@ public class BankAccount {
     if (balance < amount) {
       amount = balance;
     }
-
     balance -= amount;
     return amount;
   }
